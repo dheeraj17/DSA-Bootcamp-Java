@@ -60,7 +60,7 @@ public class Main {
                     int temp = arr[j];
                     arr[j] = arr[j-1];
                     arr[j-1] = temp;
-                    swapped = true;
+                    swapped = true;fb
                 }
             }
             // if you did not swap for a particular value of i, it means the array is sorted hence stop the program
